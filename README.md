@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/heryhelder](https://dev.to/heryhelder)
 
+- 💬 Ask me about **databases, data modelling, data warehousing, data ingestion**
+
 - 📫 How to reach me **heryhelder@protonmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carlos-heryhelder/](https://www.linkedin.com/in/carlos-heryhelder/)
