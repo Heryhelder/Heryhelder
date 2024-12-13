@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Heryhelder</h1>
-<h3 align="center">Web developer | Data engineer</h3>
+<h3 align="center">Web developer</h3>
 
 - 🌱 I’m currently learning **data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heryhelder?tab=repositories](https://github.com/Heryhelder?tab=repositories)
 
-- 💬 Ask me about **databases, data modelling, data warehousing, data ingestion, ETL/ELT, big data, data processing, BI & Analytics**
+- 💬 Ask me about **databases, data modelling, stored procedures, query optimization**
 
 - 📫 How to reach me **heryhelder@protonmail.com**
 
