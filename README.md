@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Heryhelder</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heryhelder?tab=repositories](https://github.com/Heryhelder?tab=repositories)
 
